@@ -24,7 +24,7 @@ Presents a showcase of three distinct machine learning models/algorithms, each t
 
 Highlights the rigorous evaluation process for each machine learning model. Detailed performance metrics are provided, culminating in the selection of the best-performing model for each business problem.
 
-### 5. Sentiment Analysis (Lab 03)
+### 5. Sentiment Analysis
 
 This section delves into a fascinating journey of identifying a pivotal feature to gauge consumer sentiment. It unravels the sentiment analysis approach employed to predict whether a consumer dispute will lead to a 'Consumer disputed' outcome.
 
